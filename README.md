@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/BobzyDuck/BobzyDuck-Sculpt/commit/ec565cd149faa06f49cbfeda6fdc27294709af33" alt="Nani Farm – Unity ProBuilder Environment Design">
+<img src="images/BobzyDuck.jpg" alt="Nani Farm – Unity ProBuilder Environment Design">
 </p>
 
 <p align="center">
