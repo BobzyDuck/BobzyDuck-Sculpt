@@ -1,5 +1,15 @@
-![BobzyDuck Character 3D Sculpt – ZBrush Model](images/BobzyDuck.jpg)
+<p align="center">
+<img src="images/ProBuilder.jpg" alt="Nani Farm – Unity ProBuilder Environment Design" width="900">
+</p>
 
 <p align="center">
-<a href="https://www.youtube.com/@BobzyDuck/videos">🎬 Visit My YouTube Channel</a>
+<b>🌱 Nani Farm – Devlog 01</b>
+</p>
+
+<p align="center">
+In this video, I show how I designed the environment for my game <b>Nani Farm</b> directly inside <b>Unity using ProBuilder</b>.
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/@BobzyDuck/videos">🎮 Unity ProBuilder Tutorial – Watch on YouTube</a>
 </p>
