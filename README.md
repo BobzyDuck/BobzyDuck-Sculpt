@@ -11,5 +11,5 @@ In this video, I show how I designed the environment for my game <b>Nani Farm</b
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/@BobzyDuck/videos">🎮 Unity ProBuilder Tutorial – Watch on YouTube</a>
+<a href="https://www.youtube.com/@BobzyDuck/videos">🎬 Visit My YouTube Channel</a>
 </p>
